@@ -1,0 +1,8 @@
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.deps.json
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csprojAssemblyReference.cache
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb

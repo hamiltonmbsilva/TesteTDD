@@ -1,0 +1,15 @@
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.exe
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.deps.json
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.runtimeconfig.json
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.runtimeconfig.dev.json
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.dll
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.pdb
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.dll
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.pdb
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.csprojAssemblyReference.cache
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.AssemblyInfoInputs.cache
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.AssemblyInfo.cs
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.csproj.CopyComplete
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.dll
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.pdb
+D:\Cursos\Curso Alura Testes\C# Teste TDD\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleAPP\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleAPP.genruntimeconfig.cache
