@@ -81,6 +81,22 @@ namespace Alura.LeilaoOnline.Tests
         }
 
         [Fact]
+        public void LeilaoSemLances()
+        {            
+                //Arranje - Cénario
+                var leilao = new Leilao("Van Gogh");  
+
+                //Act - método sob teste
+                leilao.TerminaPregao();
+
+                //Assert
+                var valorEsperado = 0;
+                var valorObitido = leilao.Ganhador.Valor;
+
+                Assert.Equal(valorEsperado, valorObitido);            
+        }
+
+        [Fact]
         public void LeilaoComApenasUmLance()
         {
             //Arranje - Cénario
