@@ -26,7 +26,7 @@ namespace Alura.LeilaoOnline.Tests
             //Act - método sob teste
             leilao.TerminaPregao();
 
-            //Assert
+            //Assert            
             var valorEsperado = 1400;            
             var valorObitido = leilao.Ganhador.Valor;
             Assert.Equal(valorEsperado, valorObitido);
